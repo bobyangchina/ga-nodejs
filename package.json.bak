@@ -1,0 +1,16 @@
+{
+    "name":"goagent-nodejs",
+    "version":"3.1.5",
+    "dependencies": {
+    },
+    "main": "server.js",
+    "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }##openshift中有这个启动部分,注意"},"有逗号!
+  "private": true,
+  "main": "server.js",
+  "scripts": {  
+    "start": "node server.js"
+    }##
+}
